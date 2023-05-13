@@ -1,0 +1,227 @@
+#extm3u
+#extinf:-1,4k60psdr-h264-aac测试
+http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+#extinf:-1,4k60phlg-hevc-eac3测试
+http://159.75.85.63:5680/d/ad/playad.m3u8
+#extinf:-1,btv纪实科教-8ksdr源
+http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+#extinf:-1,苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#extinf:-1,欢笑剧场4khlg小果源
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+#extinf:-1,欢笑剧场4k百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+#extinf:-1,欢笑剧场4k
+http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&contentid=5000000007000010001&livemode=1&stbid=3
+#extinf:-1,纯享4k
+http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&contentid=1000000004000011651&livemode=1&stbid=3
+#extinf:-1,纯享4k备
+http://39.134.115.163:8080/pltv/88888910/224/3221225786/index.m3u8
+#extinf:-1,cctv4k-25p-hlg源
+http://159.75.85.63:5679/cctv4k.php
+#extinf:-1,cctv-4k25p-sdr-百事通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#extinf:-1,cctv4k-50p-hlg小果源
+http://159.75.85.63:5681/sxg.php?id=ys4kcq_2000
+#extinf:-1,cctv16-4k25p-sdr-百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#extinf:-1,cctv16-4k25p-sdr源
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbid=3&livemode=1&iashttpsessionid=ott2197120221119175523009763&channel-id=bestzb&contentid=5000000008000023254
+#extinf:-1,cctv16-4k-25phlg源
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#extinf:-1,cctv16-4k-50p-hlg小果源
+http://159.75.85.63:5681/sxg.php?id=cctv-16-4k_8000
+#extinf:-1,cctv16-4k-50p-ipv6-hlg源
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/pltv/3/224/3221228127/index.m3u8
+#extinf:-1,爱上4k
+http://111.20.40.170/pltv/88888893/224/3221226352/index.m3u8
+#extinf:-1,北京iptv-4k
+http://221.179.217.76/pltv/88888888/224/3221226550/1.m3u8
+#extinf:-1,bestv-4k
+http://74.119.193.113:8280/live/bestv4k/hls.m3u8
+#extinf:-1,4k影视
+http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&contentid=6000000003000004748&livemode=1&stbid=3
+#extinf:-1,河南4k
+http://74.119.193.113:8280/live/hn4k/hls.m3u8
+#extinf:-1,4k超高清电影
+http://159.75.85.63:5681/sxg.php
+#extinf:-1,斗鱼4k
+http://epg.112114.xyz/douyu/9249162
+#extinf:-1,咪咕体育-4k-sdr源
+http://120.234.220.107:9000/udp/239.20.0.66:3136
+#extinf:-1,咪咕体育-4k-hlg源
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#extinf:-1,咪咕体育-4k-hlg源-1
+http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+#extinf:-1,咪咕体育-4k-hlg源-2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#extinf:-1,astro super sport 4k
+http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:04:02&stream=348094&extension=ts&play_token=fzoklzfqn1
+#extinf:-1,astro super sport 4k-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1a:79:c0:0f:95&stream=348094&extension=ts&play_token=kgkj5bkm20
+#extinf:-1,astro super sport 4k-2
+http://nordicstream.xyz:2095/q8r8d5ghvh/zmovhgmyoa/348094
+#extinf:-1,astro super sport 4k-3
+http://ultratv.one:2095/xmsghazq/kyuckak/348094
+#extinf:-1,bbc uhd
+http://sheriffwoody.in:80/jeff1/jeff1/3157685
+#extinf:-1,quadro 4k
+http://91.207.180.142/quadro4k/index.m3u8
+#extinf:-1,museum 4k
+http://cdnx1.plusx.tv:8880/museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,home 4k
+http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,heritage 4k
+http://cdnx1.plusx.tv:8880/heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,v sports uhd
+http://clientsportals.tv:2095/play/live.php?mac=00:1a:79:bf:85:ce&stream=35891&extension=ts&play_token=z1hxumbsim
+#extinf:-1,v sports uhd备
+http://ultratv.one:2095/xmsghazq/kyuckak/31644
+#extinf:-1,now sports uhd hk
+http://sheriffwoody.in:80/live/jeff1/jeff1/1042156.ts
+#extinf:-1,now sports uhd hk-1
+http://ultratv.one:2095/xmsghazq/kyuckak/117957
+#extinf:-1,now sports uhd hk-2
+http://4iptv.xyz:8080/1smart15209/jg8gd5hqdrbe/149529
+#extinf:-1,bein sports 4k
+http://theking365tv.ws:2103/play/live.php?mac=00:1a:79:5c:f4:67&stream=24083&extension=ts&play_token=70aefymfql
+#extinf:-1,sky sport uhd
+http://live.darkside-iptv.co:8080/pmdwkz3uff7s/g98astfctveh/290744.ts
+#extinf:-1,tf1 4k
+http://pro.ipcover.tv:8080/baldefamily33300/baldefamily123497/152182
+#extinf:-1,tf1 4k备
+http://cineapp.org:8000/zbigniew/zbigniew/166354
+#extinf:-1,canal+ uhd
+http://cineapp.org:8000/zbigniew/zbigniew/166355
+#extinf:-1,canal+ ldc uhd
+http://cineapp.org:8000/zbigniew/zbigniew/166356
+#extinf:-1,evenement uhd
+http://cineapp.org:8000/zbigniew/zbigniew/166357
+#extinf:-1,box office canal+ uhd
+http://cineapp.org:8000/zbigniew/zbigniew/166359
+#extinf:-1,prima sport 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/62774
+#extinf:-1,eurosport 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/53743
+#extinf:-1,ziggo sport 4k
+http://live.iptvtotaal.com:8000/awpreneniptv/09hzaveomh/20560
+#extinf:-1,film 24/7 uhd
+http://x01.live:8080/5jpdecex5h/aw2qpbqztv/216226
+#extinf:-1,film 24/7 uhd 2
+http://x01.live:8080/5jpdecex5h/aw2qpbqztv/216227
+#extinf:-1,ares cinema 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/80107
+#extinf:-1,magura media 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/37414
+#extinf:-1,premium film 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/53102
+#extinf:-1,fluxro 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/95468
+#extinf:-1,impact filme 4k
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/95902
+#extinf:-1,rtl uhd
+http://live.darkside-iptv.co:8080/pmdwkz3uff7s/g98astfctveh/29821.ts
+#extinf:-1,fox us 4k
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/484693
+#extinf:-1,fox 1 sports us 4k
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/484692
+#extinf:-1,fussballtv 2 uhd
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/484703
+#extinf:-1,fussballtv 3 uhd
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/484704
+#extinf:-1,bt sport ultimate 4k
+http://sheriffwoody.in:80/live/jeff1/jeff1/1042157.ts
+#extinf:-1,hub premier sport 4k
+http://tvt3.xyz:2095/play/live.php?mac=00:1a:79:00:04:02&stream=348096&extension=ts&play_token=zphqs3jtnw
+#extinf:-1,dazn f1 uhd 4k
+http://tribaliptv.com:8080/gustavo/123456/4930
+#extinf:-1,movistar liga de campeones uhd 4k
+http://tribaliptv.com:8080/gustavo/123456/12401
+#extinf:-1,odisea uhd 4k
+http://tribaliptv.com:8080/gustavo/123456/5195
+#extinf:-1,eleven sports 1 4k
+http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,eleven sports 1 4k备
+http://4iptv.xyz:8080/1smart15209/jg8gd5hqdrbe/154014
+#extinf:-1,sport5 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1a:79:c0:0f:95&stream=59033&extension=ts&play_token=h3jb2bbual
+#extinf:-1,Матч 4k
+http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=hrunwem0q2
+#extinf:-1,trt 4k
+http://cdnx1.plusx.tv:8880/trtinternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,trt 4k备
+http://cineapp.org:8000/zbigniew/zbigniew/18349
+#extinf:-1,digi 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1a:79:c0:0f:95&stream=90814&extension=ts&play_token=ab1rnoahbm
+#extinf:-1,digi 4k备
+http://v1.nddarsenio.com:8008/mihai_costin./h3jutse/34585
+#extinf:-1,rai 4k
+http://4iptv.xyz:8080/1smart15209/jg8gd5hqdrbe/173531
+#extinf:-1,rai 4k备
+http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=hrunwem0q2
+#extinf:-1,c4k360
+http://cdnx1.plusx.tv:8880/c4k360/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,tvp 4k
+http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=1057230&extension=ts&play_token=ffhcejjdsm
+#extinf:-1,tvp 4k-1
+http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#extinf:-1,tvp 4k-2
+http://cdn.spmr.tv:8080/dtsi28/video.m3u8?token=hrunwem0q2
+#extinf:-1,kino 4k
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/234326
+#extinf:-1,our siberia 4k
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/234329
+#extinf:-1,serial 4k
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/234325
+#extinf:-1,ultra cinema uhd
+http://abc123.digital:8080/rchatosilva@yahoo.com/fddwc56brw/234331
+#extinf:-1,vtc13 4k
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+#extinf:-1,insight uhd
+http://cdnx1.plusx.tv:8880/insightuhd11/mono.m3u8?token=24cce35b06aecc51433333
+#extinf:-1,travelxp tv 4k
+http://cdnx1.plusx.tv:8880/travelxp/mono.m3u8?token=24cce35b06aecc51433333
+#extinf:-1,nasa 4k 60p
+http://cdnx1.plusx.tv:8880/nasa/mono.m3u8?token=24cce35b06aecc51433333
+#extinf:-1,myzen tv 4k
+http://cdnx1.plusx.tv:8880/myzen/mono.m3u8?token=24cce35b06aecc51433333
+#extinf:-1,ultra nature tv 4k
+http://185.236.229.31:9981/play/a01d
+#extinf:-1,fashion4k
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#extinf:-1,clarity4k
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#extinf:-1,爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#extinf:-1,muzzik zz4000 4k
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#extinf:-1,loupe 4k
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#extinf:-1,bloomberg tv+ 4k
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#extinf:-1,cctv-8k-测试源
+http://74.119.193.113:8280/live/cctv8k/hls.m3u8
+#extinf:-1,江苏8k测试
+http://ott.mobaibox.com/pltv/3/224/3221228132/index.m3u8
+#extinf:-1,yosso tv 4k
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/16153/index.m3u8
+#extinf:-1,минимакс-flip uhd
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/13057/index.m3u8
+#extinf:-1,sky high vhs uhd
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/17058/index.m3u8
+#extinf:-1,sky high uhd hdr
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/17059/index.m3u8
+#extinf:-1,sky high dance uhd
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/14250/index.m3u8
+#extinf:-1,sky high doc uhd
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/17053/index.m3u8
+#extinf:-1,sky high nature 4k hdr
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/14248/index.m3u8
+#extinf:-1,liberty kinoeng  uhd
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/17060/index.m3u8
+#extinf:-1,liberty marvel 4k
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/15090/index.m3u8
+#extinf:-1,liberty Кино Микс 4k
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/15110/index.m3u8
+#extinf:-1,liberty Мульт 4k
+http://3efb37ea.ucomist.net/iptv/2zdkwt2xkgzeea/18051/index.m3u8
