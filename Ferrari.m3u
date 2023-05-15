@@ -672,7 +672,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0v1pGprr4VvMecMCo7K7p8kJrty2-FlJbf1PLusEYjfjpWDI40sakwMhD06jAdnvZlMw&usqp=CAU",K+ SPORT1 FHD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+ SPORT1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win63; x63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.75.186.169/b4tv/b4tv/1.m3u8
 
