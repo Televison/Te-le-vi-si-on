@@ -326,7 +326,7 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCAB" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
 #https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5-ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
 ----------------HTVC------------------
@@ -521,7 +521,7 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="http://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
+#EXTINF:-1 tvg-id="dmaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
 #EXTVLCOPT:http-user-agent="KIIP"
 https://code.vthanhtivi.pw/getlink/cliptv/dmax/chunklist_b5128000.m3u8
 
