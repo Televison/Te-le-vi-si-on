@@ -380,6 +380,60 @@ http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 
 -----------------------QUỐC TẾ---------------------------
 
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="QUỐC TẾ",HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="QUỐC TẾ",Cinemax HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTVLCOPT:http-user-agent=dovietsy
+#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://185.188.188.235/live/hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo2" group-title="QUỐC TẾ" tvg-logo="https://w7.pngwing.com/pngs/42/481/png-transparent-logo-brand-product-design-font-design-text-logo-signage.png", HBO2 HD
+#EXTVLCOPT:http-user-agent=dovietsy
+http://185.188.188.235/live/hbo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo3" group-title="QUỐC TẾ" tvg-logo="https://e7.pngegg.com/pngimages/994/585/png-clipart-hbo-go-high-definition-television-hbo-comedy-record-miscellaneous-television-thumbnail.png", HBO3 HD
+#EXTVLCOPT:http-user-agent=dovietsy
+http://185.188.188.235/live/hbo3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redbyhbo" group-title="QUỐC TẾ" tvg-logo="https://vnpt.com.vn/Media/Images/25062021/20210625102127.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Red by HBO
+#EXTVLCOPT:http-user-agent=dovietsy
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD -SV2
+#EXTVLCOPT:http-user-agent=dovietsy
+#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/cinemax
+
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ",AXN HD
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://img.vnmedia.xyz/logo/warnertvhd.jpg" group-title="QUỐC TẾ",Warner TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="http://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="QUỐC TẾ",Cinema World HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="foxlife" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png", Fox Life
+#EXTVLCOPT:http-user-agent=dovietsy
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="QUỐC TẾ" ,Film 360
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
 
@@ -419,33 +473,6 @@ http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="QUỐC TẾ",Outdoor Channel HD
 http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="QUỐC TẾ",HBO HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="QUỐC TẾ",Cinemax HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="axnhd" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ",AXN HD
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
-
-#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://img.vnmedia.xyz/logo/warnertvhd.jpg" group-title="QUỐC TẾ",Warner TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="http://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="QUỐC TẾ",Cinema World HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="dw" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="QUỐC TẾ",DW HD
 http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
