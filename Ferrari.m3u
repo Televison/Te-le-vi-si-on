@@ -1398,6 +1398,54 @@ https://7pal.short.gy/digi4k
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="SPORTS 4K",SkySportsF1
 https://7pal.short.gy/SSF1uhd
 
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 1
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=6H190jzhqk
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 2
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1300442&extension=ts&play_token=kyez1fCJbr
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 3
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1300442&extension=ts&play_token=kFiCXbKJbA
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 4
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1300442&extension=ts&play_token=WI3SeYjiNd
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 5
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1552955&extension=ts&play_token=yaEAVKziKd
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 6
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:07:45:0D&stream=1552955&extension=ts&play_token=lg2DdBuIAN
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 7
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1552955&extension=ts&play_token=JiHQm0NPFZ
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300443&extension=ts&play_token=ST72fRM9E3
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 9 Live Event
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1122782&extension=ts&play_token=GfHty63NZx
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 10 Live Event
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=U1nb6FuNER
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 11 Live Event
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=JqsTb3hawA
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 12 Live Event
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1122782&extension=ts&play_token=ipXtKwHwal
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 13 Live Event
+http://playedbikes.h1ott.com:80/play/live.php?mac=00:1A:79:53:8F:F2&stream=1038792&extension=ts&play_token=G3YB0b0fli
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 14 Live Event
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1038792&extension=ts&play_token=fghhjA972E
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 15 Live Event
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1122782&extension=ts&play_token=iDOcfithDz
+
+#EXTINF:-1,group-title="SPORTS 4K" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 16 Live Event
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
+
 ---------------------4K/8K-THỬ NGHIỆM-------------------------
 
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="4K/8K Thử Nghiệm",BTV纪实科教-8KSDR源
@@ -1430,6 +1478,8 @@ http://149.62.177.99:8004/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="4K/8K Thử Nghiệm",HotBird 4K-20Mbps
 http://149.62.177.99:8004/play/a00s/index.m3u8
+
+
 
 ---------------------CCTV-CHINA-------------------------
 
