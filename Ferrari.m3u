@@ -392,7 +392,7 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD-SV2
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 http://185.188.188.235/live/hbo/playlist.m3u8
@@ -409,10 +409,31 @@ http://185.188.188.235/live/hbo3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU" group-title="QUỐC TẾ",CINE| HBO Xtreme
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+
+#EXTINF:-1 tvg-id="GHB2DLY" tvg-name="P | HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjeUEL65RWLxXEUz9uktZ4w1dhLh0_ZS1oLQ&usqp=CAU" group-title="QUỐC TẾ",CINE-HBO 2
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305000
+
+#EXTINF:-1 tvg-id="HBOCHIL" tvg-name="P | HBO +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizqSJ1fIlfsrcsVr71puh_sfvOAElSyHC9Q&usqp=CAU" group-title="QUỐC TẾ",HBO +
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305006
+
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytE1GnFqdi5X2zfSyaK8HlqkhmiT1ufFXAg&usqp=CAU" group-title="QUỐC TẾ",HBO Family
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102378.ts 
+
+#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKupH9_ScHevzoXNh1IbSTksMVFN1F_7qXDQ&usqp=CAU" group-title="QUỐC TẾ",HBO POP
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
+
+#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUykR2FcUU-qe90Khef7BME95epq_18d-5g&usqp=CAU" group-title="QUỐC TẾ",HBO Mundi
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD -SV2
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 http://live.vthanhtivi.pw/cinemax
+
+#EXTINF:-1 tvg-id="MAX" tvg-name="P | Cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOCCcdEUkYbh-ADpJghj0Xb4NrJlO9-aCmw&usqp=CAU" group-title="QUỐC TẾ",Cinemax HD-SV3
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ",AXN HD
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -433,6 +454,9 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="foxlife" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png", Fox Life
 #EXTVLCOPT:http-user-agent=dovietsy
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="PARAFR" tvg-name="P | Paramount Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLFZAplb79u7TXCfALAF2GbYEFZ1A-_8T6g&usqp=CAU" group-title="QUỐC TẾ",Paramount Channel
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102385.ts
 
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="QUỐC TẾ" ,Film 360
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
