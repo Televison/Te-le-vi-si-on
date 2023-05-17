@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml, https://trada.info/epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml, 
 https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml, https://raw.githubusercontent.com/iptv-org/epg/master/sites/tv24.co.uk/tv24.co.uk.channels.xml, 
 https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvtv.us/tvtv.us.channels.xml, https://raw.githubusercontent.com/iptv-org/epg/master/sites/vidio.com/vidio.com.channels.xml, 
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://gg.gg/epgphap, https://epg.112114.xyz/pp.xml, 
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://gg.gg/epgphap, https://epg.112114.xyz/pp.xml, https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml, 
 http://epg.51zmt.top:8000/e.xml, https://epg.pw/xmltv.html?lang=zh-hant" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 
 ---------VTV---------
