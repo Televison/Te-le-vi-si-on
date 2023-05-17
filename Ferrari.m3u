@@ -173,8 +173,10 @@ https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/dvr-${start}-${offset}.m3u8", ON Cine
 https://code.vthanhtivi.pw/getlink/tv360/176/0.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8", ON Style
 https://code.vthanhtivi.pw/getlink/tv360/184/0.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab15/playlist.m3u8
@@ -195,7 +197,6 @@ https://code.vthanhtivi.pw/getlink/tv360/186/0.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
 #https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
-https://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m40_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19 - Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
