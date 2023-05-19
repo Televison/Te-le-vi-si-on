@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,VTV1 HD
 http://hungvietme.vn/mytv.php?id=210
 #EXTINF:-1,VTV2 HD
@@ -190,8 +192,6 @@ http://hungvietme.vn/mytv.php?id=164
 http://hungvietme.vn/mytv.php?id=149
 #EXTINF:-1,NINH BÌNH
 http://hungvietme.vn/mytv.php?id=160
-#EXTM3U
-
 #EXTINF:-1,NINH THUẬN
 http://hungvietme.vn/mytv.php?id=176
 #EXTINF:-1,NGHỆ AN
