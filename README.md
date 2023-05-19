@@ -1,2 +1,2 @@
-# 360iptv
+#List by TV24
 
