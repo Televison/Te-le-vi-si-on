@@ -65,7 +65,7 @@ https:///vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd?https:///dl.dro
 #KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/7jnyjct2nej9pfl///%20
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+SPORT1 FHD-TV360
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+SPORT1 FHD TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }	
